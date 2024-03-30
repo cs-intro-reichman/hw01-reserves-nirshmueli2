@@ -19,7 +19,7 @@ public class GenThree {
 		if (x3<min){
 			min = x3;
 		}
-		System.out.println("out of the numbers " + x1 + " " +x2 + " " + x3);
+		System.out.println("out of the numbers " + x1 + " " + x2 + " " + x3);
 		System.out.println("the smallest number is " + min);
 	// Put your code here
 	}
